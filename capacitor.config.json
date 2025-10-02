@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.attendance",
+  "appName": "attendance-app",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
